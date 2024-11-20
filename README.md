@@ -1,6 +1,5 @@
 # Illuminati Chatting App 🚀
-<img align="right" height="150" src="https://i.ibb.co/xSX0yfQ/Chat-Application-Code-Documentation.gif"  />
-<img src="https://i.ibb.co/RpYm1BW/Chat-Application-Code-Documentation.gif" alt="Chat-Application-Code-Documentation" border="0">
+<img align="right" height="350" src="https://i.ibb.co/RpYm1BW/Chat-Application-Code-Documentation.gif" alt="Chat-Application-Code-Documentation" border="0">
 
 ## 🔧 Technologies Used
 - Android Studio 📱
