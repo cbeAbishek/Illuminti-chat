@@ -22,13 +22,13 @@ This project creates a secure and efficient chatting platform for users, offerin
 - Vishnu Dev 
 - Mathiazhagan A R
 
-
+### To download Document click download button 
 [![Download_Document](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Chat Application Code Documentation.pdf")](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.pdf)
 
 ## Image output
 <img align="center" height="400" src="https://raw.githubusercontent.com/cbeAbishek/Illuminti-chat/refs/heads/master/Chat%20Application%20Code%20Documentation.png"  />
 
-## Image output
+## Video Demo
 
 https://github.com/user-attachments/assets/c071b6cf-f7ec-44cd-ae79-d3159b10627e
 
