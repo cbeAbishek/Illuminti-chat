@@ -1,45 +1,43 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+# Illuminati Chatting App 🚀
+![](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.gif)
 
+## 🔧 Technologies Used
+- Android Studio 📱
+- Kotlin ⚙️
+- Firebase 🔥 (for Authentication & Database)
 
+## 🎯 Purpose
+This project creates a secure and efficient chatting platform for users, offering a straightforward messaging experience with essential features.
 
-### Hi there, I am Prerak Raja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajaprerak/)](https://www.linkedin.com/in/rajaprerak/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
+## ✨ Features
+- Simple & User-friendly interface
+- Real-time chatting with instant message delivery
+- Secure Firebase Authentication
+- Minimalist, modern design
+## 👨‍💻 Team Members
+### This project was developed by five students from PPG Institute of Technology BE.CSE department 
+- Abishek G
+- Sarran M
+- Gabriel Ebenezer A
+- Vishnu Dev 
+- Mathiazhagan A R
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+### To download Document click download button 
+[![Download_Document](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Chat Application Code Documentation.pdf")](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.pdf)
 
-💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+## Image output
+<img align="center" height="400" src="https://raw.githubusercontent.com/cbeAbishek/Illuminti-chat/refs/heads/master/Chat%20Application%20Code%20Documentation.png"  />
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-    
-🛠**Tech Stack**
+## Video Demo
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+https://github.com/user-attachments/assets/c071b6cf-f7ec-44cd-ae79-d3159b10627e
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+## 🛠️ Setup & Installation
+1. Clone the repository to your machine
+2. Open the project in Android Studio
+3. Sync the project with Gradle files
+4. Launch the app on your emulator or physical device
 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
+## 📌 Note
+This project is a learning exercise as part of an academic course and is not intended for commercial use.
 
