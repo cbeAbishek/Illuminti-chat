@@ -1,3 +1,4 @@
+<img align="right" height="150" src="[Chat Application Code Documentation.gif](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.gif)"  />
 🌟 Illuminati Chatting App 🌟
 Welcome to the Illuminati Chatting App! 🚀 This is a messaging application created as part of the Nan Mudhalvan project. It is designed with a modern and minimalistic approach to provide a simple and secure platform for users who want to chat. The app uses Firebase for seamless communication and data storage.
 
