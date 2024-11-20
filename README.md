@@ -15,6 +15,10 @@ This project creates a secure and efficient chatting platform for users, offerin
 - Secure Firebase Authentication
 - Minimalist, modern design
 
+
+https://github.com/user-attachments/assets/c071b6cf-f7ec-44cd-ae79-d3159b10627e
+
+
 ## 👨‍💻 Team Members
 ### This project was developed by five students from PPG Institute of Technology BE.CSE department 
 - Abishek G
