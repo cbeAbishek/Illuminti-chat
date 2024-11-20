@@ -37,3 +37,4 @@ Sync the project with Gradle files.
 Launch the app on your emulator or physical device.
 📌 Note
 This project is purely a learning exercise and is part of an academic course. It is not intended for commercial use.
+
