@@ -1,41 +1,34 @@
-<img align="right" height="150" src="[Chat Application Code Documentation.gif](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.gif)"  />
-🌟 Illuminati Chatting App 🌟
-Welcome to the Illuminati Chatting App! 🚀 This is a messaging application created as part of the Nan Mudhalvan project. It is designed with a modern and minimalistic approach to provide a simple and secure platform for users who want to chat. The app uses Firebase for seamless communication and data storage.
+# Illuminati Chatting App 🚀
+<img align="right" height="150" src="https://jmp.sh/s/G0izK0fs6xhXqjds3qSA"  />
 
-🔧 Technologies Used
-Android Studio 📱
-Kotlin ⚙️
-Firebase 🔥 (for Authentication & Database)
-🎯 Purpose
-This project is aimed at creating a secure and efficient chatting platform for users. It’s targeted at people who want a straightforward messaging experience with essential features like:
+## 🔧 Technologies Used
+- Android Studio 📱
+- Kotlin ⚙️
+- Firebase 🔥 (for Authentication & Database)
 
-Text Chat 💬
-Real-time Message Delivery ⏱️
-Secure Authentication 🔒
-👨‍💻 Team Members
-This project was developed by five students from the CSE department at PPG Institute of Technology:
+## 🎯 Purpose
+This project creates a secure and efficient chatting platform for users, offering a straightforward messaging experience with essential features.
 
-Sarran M
-[Other Team Members]
-🛠️ Features
-Simple & User-friendly interface: A clean design focused on a seamless messaging experience.
-Real-time chatting: Instant message delivery with Firebase Cloud Messaging.
-Secure Authentication: Firebase Authentication ensures your data is protected.
-Minimalist design: A modern, easy-to-navigate interface.
-🚀 How to Use
-Download and Install: Get the app from your preferred source or clone the repository.
-Sign Up: Create an account using your email.
-Start Chatting: Begin messaging with other users in real-time!
-🔐 Security
-We’ve prioritized security by using Firebase for both user authentication and storing messages. Rest assured that your messages are safe and encrypted.
+## ✨ Features
+- Simple & User-friendly interface
+- Real-time chatting with instant message delivery
+- Secure Firebase Authentication
+- Minimalist, modern design
 
-💻 Setup & Installation
-To run the app locally:
+## 👨‍💻 Team Members
+### This project was developed by five students from PPG Institute of Technology BE.CSE department 
+- Abishek G
+- Sarran M
+- Gabriel Ebenezer A
+- Vishnu Dev 
+- Mathiazhagan A R
 
-Clone the repository to your machine.
-Open the project in Android Studio.
-Sync the project with Gradle files.
-Launch the app on your emulator or physical device.
-📌 Note
-This project is purely a learning exercise and is part of an academic course. It is not intended for commercial use.
+## 🛠️ Setup & Installation
+1. Clone the repository to your machine
+2. Open the project in Android Studio
+3. Sync the project with Gradle files
+4. Launch the app on your emulator or physical device
+
+## 📌 Note
+This project is a learning exercise as part of an academic course and is not intended for commercial use.
 
