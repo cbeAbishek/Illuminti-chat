@@ -21,7 +21,7 @@ This project creates a secure and efficient chatting platform for users, offerin
 - Gabriel Ebenezer A
 - Vishnu Dev 
 - Mathiazhagan A R
-
+[click me to download](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.pdf)
 [![Download Document](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Chat Application Code Documentation.pdf")](https://github.com/cbeAbishek/Illuminti-chat/blob/master/Chat%20Application%20Code%20Documentation.pdf)
 
 ## Image output
