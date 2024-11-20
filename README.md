@@ -23,6 +23,9 @@ This project creates a secure and efficient chatting platform for users, offerin
 - Vishnu Dev 
 - Mathiazhagan A R
 
+## Image output
+<img align="right" height="200" src="https://raw.githubusercontent.com/cbeAbishek/Illuminti-chat/refs/heads/master/Chat%20Application%20Code%20Documentation.png"  />
+
 ## 🛠️ Setup & Installation
 1. Clone the repository to your machine
 2. Open the project in Android Studio
