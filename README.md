@@ -1,5 +1,6 @@
 # Illuminati Chatting App 🚀
 <img align="right" height="150" src="https://i.ibb.co/xSX0yfQ/Chat-Application-Code-Documentation.gif"  />
+<img src="https://i.ibb.co/RpYm1BW/Chat-Application-Code-Documentation.gif" alt="Chat-Application-Code-Documentation" border="0">
 
 ## 🔧 Technologies Used
 - Android Studio 📱
@@ -24,7 +25,7 @@ This project creates a secure and efficient chatting platform for users, offerin
 - Mathiazhagan A R
 
 ## Image output
-<img align="center" height="600" src="https://raw.githubusercontent.com/cbeAbishek/Illuminti-chat/refs/heads/master/Chat%20Application%20Code%20Documentation.png"  />
+<img align="center" height="400" src="https://raw.githubusercontent.com/cbeAbishek/Illuminti-chat/refs/heads/master/Chat%20Application%20Code%20Documentation.png"  />
 
 ## 🛠️ Setup & Installation
 1. Clone the repository to your machine
