@@ -30,8 +30,7 @@ This project creates a secure and efficient chatting platform for users, offerin
 
 ## Video Demo
 
-Uploading WhatsApp Video 2024-11-21 at 12.55.07_1439407e.mp4…
-
+https://github.com/user-attachments/assets/6b5b7db7-3585-400b-9d2c-0dd40aed8d90
 
 ## 🛠️ Setup & Installation
 1. Clone the repository to your machine
