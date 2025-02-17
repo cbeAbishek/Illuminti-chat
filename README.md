@@ -17,7 +17,7 @@ This project creates a secure and efficient chatting platform for users, offerin
 ## 👨‍💻 Team Members
 ### This project was developed by five students from PPG Institute of Technology BE.CSE department 
 - Abishek G
-- Sarran M
+- Sarran 
 - Gabriel Ebenezer A
 - Vishnu Dev 
 - Mathiazhagan A R
